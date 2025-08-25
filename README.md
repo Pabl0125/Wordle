@@ -5,3 +5,4 @@ java --module-path /ruta/javafx-sdk-XX/lib --add-modules javafx.controls,javafx.
 
 Cabe destacar que para ejecutar el .jar deben de incluirse las librerias correspondiente de javafx. Si no dispones de ellas puedes descargarlas através del enlace: https://gluonhq.com/products/javafx/
 
+Puedas descargar tanto el .deb como el .exe en este enlace[https://www.youtube.com/watch?v=7D3KOZbgJ6w]
